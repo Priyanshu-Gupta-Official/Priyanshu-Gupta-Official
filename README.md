@@ -71,7 +71,7 @@ A brief description of what this project is about and the technologies used.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Gupta-Official)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Priyanshu Gupta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PRiyanshu-Gupta-Official)](https://github.com/Priyanshu-Gupta-Official/github-readme-activity-graph)
 <!--
 **Priyanshu-Gupta-Official/Priyanshu-Gupta-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
