@@ -62,14 +62,16 @@ A brief description of what this project is about and the technologies used.
 -->
 
 ## Get In Touch
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/priyanshu-gupta-941363321/))
 - [Twitter](https://twitter.com/yourprofile)
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:priyanshuguptaofficial4@gmail.com)
 
-![Priyanshu Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![Priyanshu Gupta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-Gupta-Official&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-Gupta-Official)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **Priyanshu-Gupta-Official/Priyanshu-Gupta-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
